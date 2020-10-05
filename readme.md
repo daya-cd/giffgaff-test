@@ -11,7 +11,7 @@ It is react and node application.
 
 Navigate to api
 ``` javascript
-npm run start
+npm run dev
 ```
 
 ### Client
